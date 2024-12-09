@@ -1,0 +1,43 @@
+        body{font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 15px;
+            color: aliceblue;
+            background-color: black;
+        }
+        h1{color: aqua;
+            font-style: italic;
+        }
+        h7{color: black;}
+
+        .maincontent{
+            margin-left: 100px;
+            padding: 20px;
+            text-align: center;
+        
+        }
+        .maincontent a:hover{
+            background-color: rgb(93, 121, 132);
+            border-radius: 5px;
+            text-decoration: underline;
+        }
+        a{color: cadetblue;}
+        .sidebar{
+            width: 175px;
+            height: 100%;
+            top:0;
+            padding: 15px;
+            text-decoration: none;
+        }
+        .sidebar a:hover{
+            background-color: rgb(93, 121, 132);
+            border-radius: 5px;
+            text-decoration: underline;
+        }
+        .boxmodel{
+            padding: 15px;
+            background-color: antiquewhite;
+            color: black;
+            border: 5px solid gainsboro;
+            text-align: center;
+            margin: 20px;
+
+        }
